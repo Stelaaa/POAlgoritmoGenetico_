@@ -1,0 +1,6 @@
+# Ignorar dependências do backend
+backend/venv/
+backend/__pycache__/
+
+# Ignorar dependências do frontend
+frontend/node_modules/
