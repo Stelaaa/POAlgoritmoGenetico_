@@ -16,4 +16,4 @@ Aplicação feita em github codespaces
         npm start
 
 ### visão página
-![alt text](/workspaces/POAlgoritmoGenetico_/_Apoio/image.png)
+![alt text](_Apoio/image.png)
