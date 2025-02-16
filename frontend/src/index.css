@@ -1,5 +1,25 @@
 @tailwind base;
-
 @tailwind components;
-
 @tailwind utilities;
+
+/* Ajuste do layout geral */
+.container {
+    @apply flex items-center justify-start h-screen w-screen p-10;
+    background-image: url('./assets/background.png'); /* Confirme se o caminho está correto */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  
+
+/* Formulário à esquerda */
+.formulario {
+  @apply w-[550px] bg-white bg-opacity-70 p-8 rounded-lg shadow-lg;
+}
+
+/* Espaço para o gráfico */
+.grafico {
+  @apply ml-12;
+}

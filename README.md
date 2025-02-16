@@ -15,6 +15,5 @@ Aplicação feita em github codespaces
         cd frontend
         npm start
 
-
 ### Visão inicial
-![alt text](image-2.png)
+![alt text](/workspaces/POAlgoritmoGenetico_/_Apoio/image.png)
